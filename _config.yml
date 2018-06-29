@@ -12,4 +12,4 @@ colors: #(Optional)
   primary: "#3FBFBC" #primary color for the page
   secondary: "#EE4823" #secondary color for the page
   textcolor: "#FFF" #color of the text, which is overlayed on the primary color
-fontfamily: "'Open Sans', sans-serif" #optional
+fontfamily: "'Open Sans', sans-serif" #optional ok
